@@ -1,4 +1,4 @@
-# Travel & Tourism AI Ecosystem - Project Illuminati
+# Travel & Tourism AI Ecosystem 
 
 An AI-driven ecosystem revolutionizing the travel and tourism industry by addressing key gaps like authenticity, assistance, personalization, and community engagement.
 
