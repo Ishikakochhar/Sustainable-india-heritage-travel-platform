@@ -1,5 +1,5 @@
 # Travel & Tourism AI Ecosystem 
-
+Winner in SIH 2023 (Internal Round)
 An AI-driven ecosystem revolutionizing the travel and tourism industry by addressing key gaps like authenticity, assistance, personalization, and community engagement.
 
 ## 🚀 Overview
@@ -58,12 +58,6 @@ This project creates a unified tourism platform with distinct AI modules for cus
 - Incentives for local partners and guides
 
 ## 👥 Team Illuminati
-
-- **Diya Rawal** (Team Leader) - BML Munjal University, CSE
-- **Ridit Jain**
-- **Akshat Manohar**
-- **M. Mahaansh Reddy**
-- **Vardaan**
 - **Ishika Kochhar**
 - **Mentor:** Mr. Dinesh Singh (Industry Expert in DBMS & Solution Design)
 
